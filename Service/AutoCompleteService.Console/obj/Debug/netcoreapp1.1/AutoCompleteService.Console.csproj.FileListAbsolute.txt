@@ -1,0 +1,11 @@
+C:\Users\cem.basaranoglu\Documents\GitHub\AutoCompleteService\Service\AutoCompleteService.Console\bin\Debug\netcoreapp1.1\AutoCompleteService.Console.deps.json
+C:\Users\cem.basaranoglu\Documents\GitHub\AutoCompleteService\Service\AutoCompleteService.Console\bin\Debug\netcoreapp1.1\AutoCompleteService.Console.runtimeconfig.json
+C:\Users\cem.basaranoglu\Documents\GitHub\AutoCompleteService\Service\AutoCompleteService.Console\bin\Debug\netcoreapp1.1\AutoCompleteService.Console.runtimeconfig.dev.json
+C:\Users\cem.basaranoglu\Documents\GitHub\AutoCompleteService\Service\AutoCompleteService.Console\bin\Debug\netcoreapp1.1\AutoCompleteService.Console.dll
+C:\Users\cem.basaranoglu\Documents\GitHub\AutoCompleteService\Service\AutoCompleteService.Console\bin\Debug\netcoreapp1.1\AutoCompleteService.Console.pdb
+C:\Users\cem.basaranoglu\Documents\GitHub\AutoCompleteService\Service\AutoCompleteService.Console\bin\Debug\netcoreapp1.1\AutoCompleteService.Common.dll
+C:\Users\cem.basaranoglu\Documents\GitHub\AutoCompleteService\Service\AutoCompleteService.Console\bin\Debug\netcoreapp1.1\AutoCompleteService.Common.pdb
+C:\Users\cem.basaranoglu\Documents\GitHub\AutoCompleteService\Service\AutoCompleteService.Console\obj\Debug\netcoreapp1.1\AutoCompleteService.Console.csprojResolveAssemblyReference.cache
+C:\Users\cem.basaranoglu\Documents\GitHub\AutoCompleteService\Service\AutoCompleteService.Console\obj\Debug\netcoreapp1.1\AutoCompleteService.Console.AssemblyInfo.cs
+C:\Users\cem.basaranoglu\Documents\GitHub\AutoCompleteService\Service\AutoCompleteService.Console\obj\Debug\netcoreapp1.1\AutoCompleteService.Console.dll
+C:\Users\cem.basaranoglu\Documents\GitHub\AutoCompleteService\Service\AutoCompleteService.Console\obj\Debug\netcoreapp1.1\AutoCompleteService.Console.pdb

@@ -1,0 +1,6 @@
+C:\Users\cem.basaranoglu\Documents\GitHub\AutoCompleteService\Service\AutoCompleteService.Common\bin\Debug\netcoreapp1.1\AutoCompleteService.Common.deps.json
+C:\Users\cem.basaranoglu\Documents\GitHub\AutoCompleteService\Service\AutoCompleteService.Common\obj\Debug\netcoreapp1.1\AutoCompleteService.Common.AssemblyInfo.cs
+C:\Users\cem.basaranoglu\Documents\GitHub\AutoCompleteService\Service\AutoCompleteService.Common\bin\Debug\netcoreapp1.1\AutoCompleteService.Common.dll
+C:\Users\cem.basaranoglu\Documents\GitHub\AutoCompleteService\Service\AutoCompleteService.Common\bin\Debug\netcoreapp1.1\AutoCompleteService.Common.pdb
+C:\Users\cem.basaranoglu\Documents\GitHub\AutoCompleteService\Service\AutoCompleteService.Common\obj\Debug\netcoreapp1.1\AutoCompleteService.Common.dll
+C:\Users\cem.basaranoglu\Documents\GitHub\AutoCompleteService\Service\AutoCompleteService.Common\obj\Debug\netcoreapp1.1\AutoCompleteService.Common.pdb
