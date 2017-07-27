@@ -9,9 +9,9 @@ namespace AutoCompleteService.Console
     class Program
     {
         static bool useTailFile = true;
-        static string headerPath = "header.txt";
+        static string headerPath = "Headers.txt";
         static string indexPath = "index.bin";
-        static string tailPath = "tail.txt";
+        static string tailPath = "TailWords.txt";
 
         public static void Main(string[] args)
         {
@@ -75,7 +75,7 @@ namespace AutoCompleteService.Console
                         else
                             builder = new IndexBuilder(header, index);
 
-                        foreach (var item in File.ReadLines("Words350k.txt"))
+                        foreach (var item in File.ReadLines("Words.txt"))
                         {
                             if (!string.IsNullOrWhiteSpace((item)))
                                 builder.Add(item);
