@@ -15,10 +15,10 @@ namespace AutoCompleteService.Console
 
         public static void Main(string[] args)
         {
-            GetReadyForSearch();
+            Init();
         }
 
-        private static void GetReadyForSearch()
+        private static void Init()
         {
             BuildIndex();
 
